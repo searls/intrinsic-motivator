@@ -7,3 +7,11 @@ Intrinsic Motivator is a World of Warcraft UI Add-on with the intention of suppr
 Not much yet.
 
 * Hides the ever-present experience bar
+
+## Install
+
+First, download this repository [using this link](https://github.com/searls/intrinsic-motivator/zipball/master) and extract.
+
+Then, place the extracted "IntrinsicMotivator" this directory (creating it if it doesn't already exist)
+
+    <your WoW install directory>/Interface/AddOns
