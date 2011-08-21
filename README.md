@@ -1,6 +1,6 @@
 # Intrinsic Motivator
 
-Intrinsic Motivator is a World of Warcraft UI Add-on with the intention of suppressing rewards/incentives from the UI. 
+Intrinsic Motivator is a [World of Warcraft](http://us.battle.net/wow/en/) UI [AddOn](http://www.wowwiki.com/AddOn) with the intention of suppressing rewards/incentives from the UI. 
 
 Reading [Punished by Rewards](http://www.alfiekohn.org/books/pbr.htm) and [Drive](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594488843) made us realize that incentives like XP might make us play longer, but decrease enjoyment and our intrinsic motivations to play the game (like reading the story, interacting with other characters, exploring new areas).
 
