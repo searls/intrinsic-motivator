@@ -1,0 +1,9 @@
+## Interface: 40200
+## Title: IntrinsicMotivator
+## Version: 0.0.1
+## Author: Justin Searls
+## Notes: Hides the XP Bar, MIT License
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+IntrinsicMotivator.lua
